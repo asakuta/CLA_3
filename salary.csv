@@ -1,0 +1,7 @@
+Name,Salary,Bonus,Total,Currency
+Ben,34000,4500,Salary+Bonus,GBP
+Alice,36000,5000,Salary+Bonus,GBP
+Yuta,5300000,700000,Salary+Bonus,JPY
+Janos,15000000,1800000,Salary+Bonus,HUF
+Kate,34000,0,Salary+Bonus,GBP
+Bob,48729,6300,Salary+Bonus,USD
